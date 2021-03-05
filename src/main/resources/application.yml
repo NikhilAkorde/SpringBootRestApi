@@ -1,0 +1,8 @@
+#server:
+ # ssl:
+  #  key-alias: springrest-https
+   #key-store: classpath:cerficate.jks
+    #key-store-type: JKS
+    #key-password: password
+    
+  #port: 8888
